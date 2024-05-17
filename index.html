@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Radar Charts</title>
+    <link
+      rel="stylesheet"
+      href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://rawgit.com/tpreusse/radar-chart-d3/master/src/radar-chart.css"
+    />
+
+    <style>
+      body {
+        padding: 20px;
+      }
+      .radar-chart-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .radar-chart {
+        width: calc(50% - 20px);
+      }
+      .area.sales,
+      .sales .circle {
+        fill: blueviolet;
+        stroke: none;
+      }
+      .area.forecast,
+      .forecast .circle {
+        fill: none;
+        stroke: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h3>Sales Vs Forecast Per Product</h3>
+    <script src="http://d3js.org/d3.v3.js"></script>
+    <script src="https://rawgit.com/tpreusse/radar-chart-d3/master/src/radar-chart.js"></script>
+
+    <script>
+      RadarChart.defaultConfig.color = function () {};
+      RadarChart.defaultConfig.radius = 5;
+      RadarChart.defaultConfig.w = 300;
+      RadarChart.defaultConfig.h = 300;
+    </script>
+
+    <span></span>
+
+    <script src="script.js" type="text/javascript"></script>
+  </body>
+</html>

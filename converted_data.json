@@ -1,0 +1,72 @@
+[
+    {
+        "MaterialKey": "1",
+        "PlantKey": "ANT2",
+        "MaterialPlantKey": "10004",
+        "SalesValue": "588128",
+        "ForecastValue": "594759"
+    },
+    {
+        "MaterialKey": "1",
+        "PlantKey": "BIR2",
+        "MaterialPlantKey": "10005",
+        "SalesValue": "275246",
+        "ForecastValue": "255356"
+    },
+    {
+        "MaterialKey": "1",
+        "PlantKey": "WRO2",
+        "MaterialPlantKey": "10006",
+        "SalesValue": "316121",
+        "ForecastValue": "316276"
+    },
+    {
+        "MaterialKey": "1",
+        "PlantKey": "GOT2",
+        "MaterialPlantKey": "10007",
+        "SalesValue": "8994",
+        "ForecastValue": "7768"
+    },
+    {
+        "MaterialKey": "1",
+        "PlantKey": "LYO2",
+        "MaterialPlantKey": "10008",
+        "SalesValue": "251273",
+        "ForecastValue": "234657"
+    },
+    {
+        "MaterialKey": "2",
+        "PlantKey": "ANT2",
+        "MaterialPlantKey": "20004",
+        "SalesValue": "150512",
+        "ForecastValue": "144540"
+    },
+    {
+        "MaterialKey": "2",
+        "PlantKey": "BIR2",
+        "MaterialPlantKey": "20005",
+        "SalesValue": "65549",
+        "ForecastValue": "68555"
+    },
+    {
+        "MaterialKey": "2",
+        "PlantKey": "WRO2",
+        "MaterialPlantKey": "20006",
+        "SalesValue": "79301",
+        "ForecastValue": "77055"
+    },
+    {
+        "MaterialKey": "2",
+        "PlantKey": "GOT2",
+        "MaterialPlantKey": "20007",
+        "SalesValue": "2232",
+        "ForecastValue": "2219"
+    },
+    {
+        "MaterialKey": "2",
+        "PlantKey": "LYO2",
+        "MaterialPlantKey": "20008",
+        "SalesValue": "63101",
+        "ForecastValue": "63927"
+    }
+]
