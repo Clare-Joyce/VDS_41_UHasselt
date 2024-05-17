@@ -1,0 +1,195 @@
+{
+  "type": "node",
+  "name": "boss",
+  "value": 0,
+  "children": [
+    {
+      "type": "node",
+      "name": "Vendor 1001",
+      "value": 41675,
+      "children": [
+        {
+          "type": "node",
+          "name": "ANT2",
+          "value": 41047,
+          "children": [
+            {
+              "type": "leaf",
+              "name": "Belgium",
+              "value": 5453,
+              "color": 0.0337428938199156
+            },
+            {
+              "type": "leaf",
+              "name": "Germany",
+              "value": 34358,
+              "color": 0.0090517492287094
+            },
+            {
+              "type": "leaf",
+              "name": "Netherlands",
+              "value": 1236,
+              "color": -0.1731391585760517
+            }
+          ]
+        },
+        {
+          "type": "node",
+          "name": "BIR2",
+          "value": 628,
+          "children": [
+            {
+              "type": "leaf",
+              "name": "United Kingdom",
+              "value": 628,
+              "color": 0.2388535031847133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "node",
+      "name": "Vendor 1002",
+      "value": 36399,
+      "children": [
+        {
+          "type": "node",
+          "name": "GOT2",
+          "value": 17467,
+          "children": [
+            {
+              "type": "leaf",
+              "name": "Denmark",
+              "value": 467,
+              "color": 0.145610278372591
+            },
+            {
+              "type": "leaf",
+              "name": "Estonia",
+              "value": 565,
+              "color": -0.0513274336283185
+            },
+            {
+              "type": "leaf",
+              "name": "Finland",
+              "value": 2056,
+              "color": 0.0223735408560311
+            },
+            {
+              "type": "leaf",
+              "name": "Latvia",
+              "value": 324,
+              "color": 0.1851851851851851
+            },
+            {
+              "type": "leaf",
+              "name": "Lithuania",
+              "value": 785,
+              "color": 0.1847133757961783
+            },
+            {
+              "type": "leaf",
+              "name": "Norway",
+              "value": 1738,
+              "color": 0.0074798619102416
+            },
+            {
+              "type": "leaf",
+              "name": "Sweden",
+              "value": 11532,
+              "color": -0.0130072840790842
+            }
+          ]
+        },
+        {
+          "type": "node",
+          "name": "WRO2",
+          "value": 18932,
+          "children": [
+            {
+              "type": "leaf",
+              "name": "Czech Republic",
+              "value": 7398,
+              "color": 0.0164909434982427
+            },
+            {
+              "type": "leaf",
+              "name": "Greece",
+              "value": 4645,
+              "color": 0.0245425188374596
+            },
+            {
+              "type": "leaf",
+              "name": "Hungary",
+              "value": 654,
+              "color": 0.3180428134556575
+            },
+            {
+              "type": "leaf",
+              "name": "Poland",
+              "value": 6235,
+              "color": -0.0433039294306335
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "node",
+      "name": "Vendor 1003",
+      "value": 21926,
+      "children": [
+        {
+          "type": "node",
+          "name": "LYO2",
+          "value": 21926,
+          "children": [
+            {
+              "type": "leaf",
+              "name": "Croatia",
+              "value": 2602,
+              "color": 0.2259800153727901
+            },
+            {
+              "type": "leaf",
+              "name": "France",
+              "value": 10907,
+              "color": -0.0157696891904281
+            },
+            {
+              "type": "leaf",
+              "name": "Italy",
+              "value": 588,
+              "color": 0.0901360544217687
+            },
+            {
+              "type": "leaf",
+              "name": "Portugal",
+              "value": 5329,
+              "color": -0.0272096078063426
+            },
+            {
+              "type": "leaf",
+              "name": "Slovenia",
+              "value": 1383,
+              "color": -0.1171366594360086
+            },
+            {
+              "type": "leaf",
+              "name": "Spain",
+              "value": 1043,
+              "color": -0.1792905081495685
+            },
+            {
+              "type": "leaf",
+              "name": "Switzerland",
+              "value": 74,
+              "color": 0.527027027027027
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
